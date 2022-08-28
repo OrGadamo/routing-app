@@ -16,6 +16,12 @@ function Navbar() {
       <Link to={"Phones"}>
         <span>Phones</span>
       </Link>
+      <Link to={"Movies"}>
+        <span>Movies</span>
+      </Link>
+      <Link to={"moviesdetails"}>
+        <span>Movies Details</span>
+      </Link>
     </div>
   );
 }

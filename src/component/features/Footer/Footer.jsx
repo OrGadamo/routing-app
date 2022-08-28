@@ -21,6 +21,21 @@ function Footer() {
             <span>About</span>
           </Link>
         </li>
+        <li>
+          <Link to="Phones">
+            <span>Phones</span>
+          </Link>
+        </li>
+        <li>
+          <Link to="Movies">
+            <span>Movies</span>
+          </Link>
+        </li>
+        <li>
+          <Link to="moviesdetails">
+            <span>Movies Details</span>
+          </Link>
+        </li>
       </ul>
     </div>
   );

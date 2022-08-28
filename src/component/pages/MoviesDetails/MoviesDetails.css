@@ -1,0 +1,7 @@
+.movies-details {
+  min-height: 100vh;
+}
+#table_con {
+  display: flex;
+  justify-content: center;
+}

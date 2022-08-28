@@ -14,11 +14,7 @@ export default function DeviceCard({
   ram,
 }) {
   return (
-    <Card
-      sx={{ minWidth: 400, m: 2 }}
-      style={{ backgroundColor: "#323251" }}
-      className="cards"
-    >
+    <Card sx={{ minWidth: 400, m: 2 }} style={{ backgroundColor: "#323251" }}>
       <CardMedia
         component="img"
         height="400"

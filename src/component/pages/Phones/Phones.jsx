@@ -1,10 +1,9 @@
 import "./Phones.css";
 import { useContext } from "react";
 import { DeviceContext } from "../../../contexts/DeviceContext";
-import DeviceCard from "../../features/DeviceCard/DeviceCard";
+import { DeviceCard } from "../../features/index";
 function Phones() {
   const { devices, setDevices } = useContext(DeviceContext);
-  console.log(devices, setDevices);
   return (
     <div className="phones">
       <h1>Phones</h1>
