@@ -1,0 +1,8 @@
+.phones {
+  min-height: 100vh;
+}
+#card_con {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

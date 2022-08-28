@@ -1,0 +1,28 @@
+.footer {
+  width: 100%;
+  background-color: #ff0000;
+  min-height: 10vh;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  float: left;
+}
+
+li span {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 3vw;
+}
+li span:hover {
+  background-color: rgba(17, 17, 17, 0.103);
+}

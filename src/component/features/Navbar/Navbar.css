@@ -1,0 +1,12 @@
+.navbar {
+  width: 100%;
+  background-color: #626297;
+  padding: 1vh;
+  margin-bottom: 5vh;
+  border-radius: 10px;
+}
+.navbar span {
+  color: white;
+  margin-right: 1vw;
+  margin-left: 1vw;
+}
